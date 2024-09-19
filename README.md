@@ -1,4 +1,4 @@
-<h1 align="center">My name is Behnaz Sadat</h1>
+<h1 align="center">My name is Behnaz </h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 - How to reach me **Be.hnams2023@gmail.com**
